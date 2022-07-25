@@ -49,6 +49,17 @@ public class Calc {
   }
     public static int somarDoisNumeros(int num1, int num2){
       return num1 + num2;
+    };
+
+
+  public static int subtrairDoisNumeros(int num1, int num2){
+      return num1 - num2;
+  }
+  public static int multiplicarDoisNumeros(int num1, int num2){
+      return num1 * num2;
+    }
+  public static int dividirDoisNumeros(int num1, int num2){
+      return num1 / num2;
     }
 
 }
