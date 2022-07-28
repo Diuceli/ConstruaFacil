@@ -1,0 +1,21 @@
+{
+  "id": 1088,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Bolt",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "animal vermifugado na primeira semana"},
+    {
+      "id": 4,
+      "name": "animal vermifugado na segunda semana"
+    }
+  ],
+  "status": "available"
+}
